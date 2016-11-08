@@ -1,0 +1,24 @@
+{
+  "name": "huntersfbapp",
+  "version": "1.0.0",
+  "description": "facebook chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntergray11/huntersfbapp.git"
+  },
+  "author": "Hunter Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntergray11/huntersfbapp/issues"
+  },
+  "homepage": "https://github.com/huntergray11/huntersfbapp#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.78.0"
+  }
+}
